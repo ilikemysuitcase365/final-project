@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: black;
+    font-family: "Baloo Tama 2", cursive;
+}
+.m-heading {
+    font-family: "Roboto slab", serif;
+}
+.navigation-link {
+    border: 2px solid transparent;
+}
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #4A412A;
+    transition: 0.5s ease;
+}
