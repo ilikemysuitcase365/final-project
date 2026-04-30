@@ -16,3 +16,23 @@ body {
     border-bottom: 2px solid #4A412A;
     transition: 0.5s ease;
 }
+.about {
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.m-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 20px 0;
+}
+.btn-outline-warning {
+    border-width: 2px;
+    font-weight: 600;
+    padding: 10px 30px;
+    transition: all 0.3s ease;
+}
+.btn-outline-warning:hover {
+    background-color: #ffc107;
+    transform: scale(1.05);
+}
