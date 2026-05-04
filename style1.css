@@ -36,3 +36,28 @@ body {
     background-color: #ffc107;
     transform: scale(1.05);
 }
+#social-media {
+    background-color: #2f3550;
+}
+.m-heading {
+    font-weight: 700;
+    margin-top: 6px;
+}
+.media-link {
+    border: 2px solid #f2a900;
+    border-radius: 4px;
+    padding: 14px 18px;
+    margin-right: 18px;
+    background: transparent;
+    text-align: left;
+}
+.row.pt-5 h3{
+    font-size: 16px;
+    font-weight: 600;
+}
+.media-link {
+    font-size: 22px;
+}
+.media_link.bg-warning{
+    border: 2px solid #f2a900;
+}
